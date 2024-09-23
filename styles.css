@@ -1,0 +1,32 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+
+header {
+    background-color: #0044cc;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p, ul {
+    margin: 20px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+footer {
+    text-align: center;
+    margin: 20px;
+    color: #666;
+}
